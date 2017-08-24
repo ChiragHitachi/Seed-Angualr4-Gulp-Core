@@ -1,0 +1,13 @@
+﻿
+<div class="row">
+    <child-comp [title]="title" (reply)="handleReply($event)"></child-comp>
+</div>
+<div class="row">
+    <div class="col-lg-5">
+        <h1>{{message}}</h1>
+    </div>
+
+    <div class="col-lg-5">
+        <button (click)="handleClick()">Click Me</button>
+    </div>
+</div>

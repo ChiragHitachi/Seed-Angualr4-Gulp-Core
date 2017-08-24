@@ -1,0 +1,29 @@
+D:\Chirag\praveen\web-ui\src\web-ui\bin\Debug\netcoreapp1.1\SP3.Web.UI.dll.config
+D:\Chirag\praveen\web-ui\src\web-ui\bin\Debug\netcoreapp1.1\SP3.Web.UI.deps.json
+D:\Chirag\praveen\web-ui\src\web-ui\bin\Debug\netcoreapp1.1\SP3.Web.UI.runtimeconfig.json
+D:\Chirag\praveen\web-ui\src\web-ui\bin\Debug\netcoreapp1.1\SP3.Web.UI.runtimeconfig.dev.json
+D:\Chirag\praveen\web-ui\src\web-ui\bin\Debug\netcoreapp1.1\SP3.Web.UI.dll
+D:\Chirag\praveen\web-ui\src\web-ui\bin\Debug\netcoreapp1.1\SP3.Web.UI.pdb
+D:\Chirag\praveen\web-ui\src\web-ui\obj\Debug\netcoreapp1.1\Web.UI.Component1.AssemblyInfo.cs
+D:\Chirag\praveen\web-ui\src\web-ui\obj\Debug\netcoreapp1.1\SP3.Web.UI.dll
+D:\Chirag\praveen\web-ui\src\web-ui\obj\Debug\netcoreapp1.1\SP3.Web.UI.pdb
+D:\Chirag\praveen\web-ui-2\src\web-ui\bin\Debug\netcoreapp1.1\SP3.Web.UI.dll.config
+D:\Chirag\praveen\web-ui-2\src\web-ui\bin\Debug\netcoreapp1.1\SP3.Web.UI.deps.json
+D:\Chirag\praveen\web-ui-2\src\web-ui\bin\Debug\netcoreapp1.1\SP3.Web.UI.runtimeconfig.json
+D:\Chirag\praveen\web-ui-2\src\web-ui\bin\Debug\netcoreapp1.1\SP3.Web.UI.runtimeconfig.dev.json
+D:\Chirag\praveen\web-ui-2\src\web-ui\bin\Debug\netcoreapp1.1\SP3.Web.UI.dll
+D:\Chirag\praveen\web-ui-2\src\web-ui\bin\Debug\netcoreapp1.1\SP3.Web.UI.pdb
+D:\Chirag\praveen\web-ui-2\src\web-ui\obj\Debug\netcoreapp1.1\Web.UI.Component1.csprojResolveAssemblyReference.cache
+D:\Chirag\praveen\web-ui-2\src\web-ui\obj\Debug\netcoreapp1.1\Web.UI.Component1.AssemblyInfo.cs
+D:\Chirag\praveen\web-ui-2\src\web-ui\obj\Debug\netcoreapp1.1\SP3.Web.UI.dll
+D:\Chirag\praveen\web-ui-2\src\web-ui\obj\Debug\netcoreapp1.1\SP3.Web.UI.pdb
+D:\Chirag\lazy loading  - praveen\web-ui-2\src\web-ui\bin\Debug\netcoreapp1.1\SP3.Web.UI.dll.config
+D:\Chirag\lazy loading  - praveen\web-ui-2\src\web-ui\bin\Debug\netcoreapp1.1\SP3.Web.UI.deps.json
+D:\Chirag\lazy loading  - praveen\web-ui-2\src\web-ui\bin\Debug\netcoreapp1.1\SP3.Web.UI.runtimeconfig.json
+D:\Chirag\lazy loading  - praveen\web-ui-2\src\web-ui\bin\Debug\netcoreapp1.1\SP3.Web.UI.runtimeconfig.dev.json
+D:\Chirag\lazy loading  - praveen\web-ui-2\src\web-ui\bin\Debug\netcoreapp1.1\SP3.Web.UI.dll
+D:\Chirag\lazy loading  - praveen\web-ui-2\src\web-ui\bin\Debug\netcoreapp1.1\SP3.Web.UI.pdb
+D:\Chirag\lazy loading  - praveen\web-ui-2\src\web-ui\obj\Debug\netcoreapp1.1\Web.UI.Component1.csprojResolveAssemblyReference.cache
+D:\Chirag\lazy loading  - praveen\web-ui-2\src\web-ui\obj\Debug\netcoreapp1.1\Web.UI.Component1.AssemblyInfo.cs
+D:\Chirag\lazy loading  - praveen\web-ui-2\src\web-ui\obj\Debug\netcoreapp1.1\SP3.Web.UI.dll
+D:\Chirag\lazy loading  - praveen\web-ui-2\src\web-ui\obj\Debug\netcoreapp1.1\SP3.Web.UI.pdb
